@@ -1,10 +1,9 @@
 # MageCloudKit Documentation
 
-The eBook is built using gitbook.
+The MageCloudKit documentation is built using gitbook. All of the source files
+live here.
 
-The book source files live in `manuscript` and the code samples are in `code`.
-
-## Dev Setup
+## Contributing
 
 Make sure gitbook is installed.
 
